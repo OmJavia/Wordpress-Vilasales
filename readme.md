@@ -1,1 +1,1 @@
-This is the documentation for Vila Sale website
+This is the documentation for Vila Sales website
